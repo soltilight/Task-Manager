@@ -1,18 +1,24 @@
 # Task-Manager
-1.Создал ListBox для выведения процессов
+1.РЎРѕР·РґР°Р» ListBox РґР»СЏ РІС‹РІРµРґРµРЅРёСЏ РїСЂРѕС†РµСЃСЃРѕРІ
+<img width="974" height="404" alt="image" src="https://github.com/user-attachments/assets/cb3a7c9b-9908-4268-b2a6-1fe5b6523fa6" />
 
 
 
-2.Реализовал вывод всех процессов в ListBox
+2.Р РµР°Р»РёР·РѕРІР°Р» РІС‹РІРѕРґ РІСЃРµС… РїСЂРѕС†РµСЃСЃРѕРІ РІ ListBox
+<img width="528" height="444" alt="image" src="https://github.com/user-attachments/assets/1952ef48-c2f4-4548-89f7-1cde258e7a21" />
 
-3.Реализовал вывод информации при клике на элемент Listbox
+3.Р РµР°Р»РёР·РѕРІР°Р» РІС‹РІРѕРґ РёРЅС„РѕСЂРјР°С†РёРё РїСЂРё РєР»РёРєРµ РЅР° СЌР»РµРјРµРЅС‚ Listbox
+<img width="974" height="637" alt="image" src="https://github.com/user-attachments/assets/49c2dcb4-7744-4bc2-aa2c-06f4e6698cbf" />
 
 
-4.Добавил таймер на 10 секунд обновляющий запущенные процессы в UI
+4.Р”РѕР±Р°РІРёР» С‚Р°Р№РјРµСЂ РЅР° 10 СЃРµРєСѓРЅРґ РѕР±РЅРѕРІР»СЏСЋС‰РёР№ Р·Р°РїСѓС‰РµРЅРЅС‹Рµ РїСЂРѕС†РµСЃСЃС‹ РІ UI
+<img width="583" height="231" alt="image" src="https://github.com/user-attachments/assets/5a768d76-2ead-499d-a02f-73d60614b16f" />
 
-5.При запуске программа инициализируется данными функциями
+5.РџСЂРё Р·Р°РїСѓСЃРєРµ РїСЂРѕРіСЂР°РјРјР° РёРЅРёС†РёР°Р»РёР·РёСЂСѓРµС‚СЃСЏ РґР°РЅРЅС‹РјРё С„СѓРЅРєС†РёСЏРјРё
+<img width="597" height="211" alt="image" src="https://github.com/user-attachments/assets/7e24b24f-df0b-4ae1-8418-a0e20df7677d" />
 
-6.Результат работы программы
+6.Р РµР·СѓР»СЊС‚Р°С‚ СЂР°Р±РѕС‚С‹ РїСЂРѕРіСЂР°РјРјС‹
+<img width="974" height="543" alt="image" src="https://github.com/user-attachments/assets/a93ddffb-1f6a-465d-bf60-b52241c8c274" />
 
 
 
